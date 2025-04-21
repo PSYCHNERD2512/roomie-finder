@@ -70,18 +70,6 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
 
 ---
 
-## 🛠️ Technologies Used
-
-- **React Native**: Core mobile development framework.
-- **Expo**: Simplifies development and testing.
-- **TypeScript**: Type safety and code maintainability.
-- **AsyncStorage**: Stores user preferences locally.
-- **React Navigation**: Smooth navigation across screens.
-- **TailwindCSS**: Utility-first styling for fast UI development.
-- **React Native Reanimated**: Fluid, performance-optimized animations.
-
----
-
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
