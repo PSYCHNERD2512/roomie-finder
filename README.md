@@ -101,9 +101,4 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
 
 ## 🎥 Demo
 
-<<<<<<< HEAD
-> 📹 _A short demo video showcasing the onboarding, swiping, and profile matching features will be available here._
 
-_⬆️ [Upload your video file and I’ll help you embed or link it here.]_
-=======
->>>>>>> 7319468c4946c49c07bdae71699952617e80db40
