@@ -83,7 +83,10 @@ const SavedScreen = () => {
       <FlatList
         data={savedList}
         keyExtractor={(item) => item.fullName}
-        contentContainerStyle={{ padding: 16 }}
+        contentContainerStyle={{
+          padding: 16,
+          paddingBottom: 80,
+        }}
         renderItem={({ item }) => (
           <View className="mb-6">
             <CustomCard {...item} />
