@@ -9,8 +9,8 @@ const Index = () => {
     const checkUser = async () => {
       try {
         // AsyncStorage.removeItem("device-user");
-        AsyncStorage.removeItem("swipingList");
-        AsyncStorage.removeItem("savedList");
+        // AsyncStorage.removeItem("swipingList");
+        // AsyncStorage.removeItem("savedList");
         const user = await AsyncStorage.getItem("device-user");
         if (user) {
           console.log(user);
