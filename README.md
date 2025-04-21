@@ -92,7 +92,7 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
    - Install the **Expo Go** app on your phone.
    - Scan the QR code displayed in your terminal/browser using the Expo Go app.
    - Ensure your phone and computer are connected to the same Wi-Fi network.
-```
+   
 ---
 
 ## 🎥 Demo
