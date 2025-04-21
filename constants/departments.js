@@ -1,0 +1,15 @@
+export const departments = [
+  { label: "Aerospace Engineering", value: "ae" },
+  { label: "Chemical Engineering", value: "che" },
+  { label: "Civil Engineering", value: "ce" },
+  { label: "Computer Science and Engineering", value: "cse" },
+  { label: "Electrical Engineering", value: "ee" },
+  { label: "Mechanical Engineering", value: "me" },
+  { label: "Metallurgical Engineering and Materials Science", value: "mems" },
+  { label: "Physics", value: "phy" },
+  { label: "Mathematics", value: "math" },
+  { label: "Biosciences and Bioengineering", value: "bb" },
+  { label: "Energy Science and Engineering", value: "ese" },
+  { label: "Humanities and Social Sciences", value: "hss" },
+  { label: "School of Management", value: "som" },
+];
