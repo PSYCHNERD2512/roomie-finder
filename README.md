@@ -89,4 +89,6 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
 
 ## 🎥 Demo
 
+[![Watch the video](https://img.youtube.com/vi/9VMwTygG8H0/0.jpg)](https://youtube.com/shorts/9VMwTygG8H0?feature=share)
+
 
