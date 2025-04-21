@@ -70,6 +70,7 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
 
 ---
 
+```markdown
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
@@ -77,14 +78,22 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
    git clone https://github.com/your-repo/roomie-finder.git
    cd roomie-finder
    ```
-2. **Start the development server**
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
    ```bash
    npx expo start
    ```
-3. **Run the app**
-   - Install the **Expo Go** app on your phone.
-   - Scan the QR code displayed in your terminal/browser (make sure your computer and phone are on the same Wi-Fi).
 
+4. **Run the app**
+   - Install the **Expo Go** app on your phone.
+   - Scan the QR code displayed in your terminal/browser using the Expo Go app.
+   - Ensure your phone and computer are connected to the same Wi-Fi network.
+```
 ---
 
 ## 🎥 Demo
