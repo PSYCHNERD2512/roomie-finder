@@ -70,7 +70,6 @@ Roomie Finder doesn’t just pair people randomly — it compares users based on
 
 ---
 
-```markdown
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
